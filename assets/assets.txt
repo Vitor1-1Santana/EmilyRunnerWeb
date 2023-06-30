@@ -8,6 +8,12 @@ t:RESOURCES/com/badlogic/gdx/utils/lsans-15.fnt:RESOURCES/com/badlogic/gdx/utils
 i:RESOURCES/com/badlogic/gdx/utils/lsans-15.png:RESOURCES/com/badlogic/gdx/utils/lsans-15-afe63790f9c73ea9a111fd9843835d21.png:14652:image/png:1
 d:RESOURCES/sprites:RESOURCES/sprites:0:application/unknown:1
 i:RESOURCES/sprites/EmilyPlaceHolder.png:RESOURCES/sprites/EmilyPlaceHolder-6aae074ed16bba24558f20c6ca88323b.png:206:image/png:1
+d:RESOURCES/sprites/parts:RESOURCES/sprites/parts:0:application/unknown:1
+b:RESOURCES/sprites/parts/partPlacheHolder.tmx:RESOURCES/sprites/parts/partPlacheHolder-ef9e5db99dade6a1e0d117c8c692de37.tmx:6956:application/unknown:1
+d:RESOURCES/sprites/parts/partstiles:RESOURCES/sprites/parts/partstiles:0:application/unknown:1
+i:RESOURCES/sprites/parts/partstiles/chao1placeholder.png:RESOURCES/sprites/parts/partstiles/chao1placeholder-66323e7d3b4955372d941427283db613.png:107:image/png:1
+i:RESOURCES/sprites/parts/partstiles/chaobaixo1placeholder.png:RESOURCES/sprites/parts/partstiles/chaobaixo1placeholder-33cf0ee3efa946d83f650c22390e88ef.png:99:image/png:1
+i:RESOURCES/sprites/parts/partstiles/tilesPlacheHolder.png:RESOURCES/sprites/parts/partstiles/tilesPlacheHolder-d95fd555220f0c23c1b58acf12810fc4.png:119:image/png:1
 d:RESOURCES/ui:RESOURCES/ui:0:application/unknown:1
 t:RESOURCES/ui/font-list.fnt:RESOURCES/ui/font-list-128743ba21dda6939c392ae7412ef13d.fnt:21340:application/unknown:1
 t:RESOURCES/ui/font-subtitle.fnt:RESOURCES/ui/font-subtitle-c6c32b2e330a62db58e859fa7ae2bfc7.fnt:21348:application/unknown:1
