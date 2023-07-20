@@ -1,0 +1,14 @@
+info face="font-window export" size=12 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=19 base=18 scaleW=765 scaleH=44 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="font-window export.png"
+chars count=6
+char id=97 x=673 y=5 width=74 height=19 xoffset=0 yoffset=-1 xadvance=75 page=0 chnl=0 letter="a"
+char id=98 x=506 y=6 width=165 height=18 xoffset=0 yoffset=-1 xadvance=166 page=0 chnl=0 letter="b"
+char id=99 x=508 y=26 width=256 height=17 xoffset=0 yoffset=-1 xadvance=257 page=0 chnl=0 letter="c"
+char id=100 x=1 y=28 width=505 height=15 xoffset=0 yoffset=-1 xadvance=506 page=0 chnl=0 letter="d"
+char id=101 x=1 y=13 width=503 height=13 xoffset=0 yoffset=-1 xadvance=504 page=0 chnl=0 letter="e"
+char id=102 x=1 y=1 width=364 height=10 xoffset=0 yoffset=-1 xadvance=365 page=0 chnl=0 letter="f"
+char id=32 x=0 y=0 width=174 height=0 xoffset=0 yoffset=0 xadvance=175 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=1392 height=0 xoffset=0 yoffset=0 xadvance=1393 page=0 chnl=0 letter="	"
+
+kernings count=0
